@@ -1,0 +1,20 @@
+.klasa {
+  width: 470px;
+  height: 460px;
+  background-color: white;
+}
+.klasa1 {
+  color: black;
+  font-size: 20px;
+}
+
+.klasa2 {
+  width: 450px;
+  height: 200px;
+  margin-top: 16%;
+  background-color: white;
+}
+.klasa4 {
+  font-size: medium;
+  margin-right: 3%;
+}

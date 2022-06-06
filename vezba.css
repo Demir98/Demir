@@ -1,0 +1,28 @@
+.d1 {
+  width: 420px;
+  height: 400px;
+  background-color: red;
+  border: 20px solid red;
+  border-radius: 30%;
+}
+.h1 {
+  font-style: inherit;
+  margin-left: 34%;
+  font-size: xx-large;
+}
+.i1 {
+  width: 200px;
+  height: 150px;
+  border-radius: 30%;
+  margin-left: 26%;
+  margin-top: 10%;
+}
+.p1 {
+  width: 80px;
+  height: 20px;
+  margin-block-end: 56%;
+  margin-left: 5%;
+}
+.a1 {
+  color: white;
+}
