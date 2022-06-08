@@ -1,0 +1,40 @@
+div {
+  border: 1px solid gray;
+}
+.klasa {
+  height: 500px;
+  width: 600px;
+  background-color: gray;
+  position: relative;
+}
+.klasa1 {
+  width: 100px;
+  height: 80px;
+  background-color: red;
+  margin left: 100px;
+  z-index: 1;
+}
+.klasa2 {
+  width: 90px;
+  height: 60px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: green;
+}
+.klasa3 {
+  width: 90px;
+  height: 60px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: yellow;
+}
+.klasa4 {
+  width: 90px;
+  height: 60px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background-color: blue;
+}
