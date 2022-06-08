@@ -1,0 +1,30 @@
+.b1 {
+  background-color: black;
+}
+.d1 {
+  margin-top: 20px;
+  margin-left: 20px;
+  height: 430px;
+  width: 360px;
+  border: 2px solid rgb(51, 45, 45);
+  border-radius: 15px;
+  background-color: rgb(2, 3, 24);
+}
+.h1 {
+  font-size: 160%;
+  color: aliceblue;
+  margin-left: 25px;
+}
+.i1 {
+  height: 200px;
+  width: 335px;
+  margin-left: 12px;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+.p1 {
+  color: gray;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  font-size: 100%;
+}
