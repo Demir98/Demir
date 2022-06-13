@@ -18,7 +18,7 @@ body {
   height: 90px;
   width: 1550px;
   position: fixed;
-  z-index: 2;
+  z-index: 10;
 
   background-color: #131c27;
 }
@@ -109,12 +109,70 @@ body {
   background-color: #2d68b1;
   color: whitesmoke;
   box-shadow: inset 0 0 0 0#0b1f37;
-  transition: all;
+  transition: 1s ease-in;
 }
 .button:hover {
   box-shadow: inset 180px 0 0 0#0b1f37;
   cursor: pointer;
   color: white;
+}
+.demir1 {
+  margin-top: -20px;
+  margin-bottom: 0px;
+}
+.demir2 {
+  width: 1550px;
+  height: 900px;
+}
+.demir3 {
+  position: absolute;
+  font-size: 150%;
+  top: 1150px;
+  left: 100px;
+  z-index: 7;
+  color: white;
+  text-decoration: underline;
+}
+.demir4 {
+  height: 100px;
+  width: 700px;
+  position: absolute;
+  font-size: 200%;
+  top: 1230px;
+  left: 100px;
+  z-index: 7;
+  color: white;
+}
+.demir5 {
+  position: absolute;
+  top: 890px;
+  left: 1150px;
+  animation: slide 40s;
+  animation-iteration-count: infinite;
+  animation-delay: 0.5s;
+}
+.demir6 {
+  position: absolute;
+  top: 880px;
+  left: 1300px;
+  animation: slide 40s;
+  animation-iteration-count: infinite;
+  animation-delay: 0.2s;
+}
+
+@keyframes slide {
+  0% {
+    transform: translate(0, 0px);
+  }
+  30% {
+    transform: translate(-60px, 0px);
+  }
+  60% {
+    transform: translate(60px, 0px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
 }
 .dd2 {
   margin-top: -9px;
@@ -128,7 +186,7 @@ body {
   width: 1550px;
   height: 300px;
   position: absolute;
-  top: 1000px;
+  top: 1900px;
   left: 400px;
   right: 400px;
 }
@@ -154,7 +212,7 @@ body {
   width: 1200px;
   height: 300px;
   position: absolute;
-  top: 1400px;
+  top: 2200px;
   left: 180px;
   padding: 10px;
   background-color: none;
