@@ -18,6 +18,7 @@ body {
   height: 90px;
   width: 1550px;
   position: fixed;
+  z-index: 2;
 
   background-color: #131c27;
 }
@@ -71,6 +72,7 @@ body {
   width: 1550px;
   height: 900px;
 }
+
 .div2 {
   font-size: 200%;
   color: whitesmoke;
@@ -113,4 +115,137 @@ body {
   box-shadow: inset 180px 0 0 0#0b1f37;
   cursor: pointer;
   color: white;
+}
+.dd2 {
+  margin-top: -9px;
+  margin-bottom: 0px;
+}
+.i2 {
+  width: 1550px;
+  height: 900px;
+}
+.div5 {
+  width: 1550px;
+  height: 300px;
+  position: absolute;
+  top: 1000px;
+  left: 400px;
+  right: 400px;
+}
+.div6 {
+  font-size: 200%;
+  color: #295b99;
+  margin-left: 90px;
+  margin-right: 70px;
+}
+.div7 {
+  font-size: 130%;
+  color: #5b7ca3;
+  margin-left: -80px;
+  margin-top: 50px;
+}
+.div8 {
+  font-size: 100%;
+  color: #5b7ca3;
+  margin-left: 180px;
+  margin-top: 10px;
+}
+.glavni {
+  width: 1200px;
+  height: 300px;
+  position: absolute;
+  top: 1400px;
+  left: 180px;
+  padding: 10px;
+  background-color: none;
+}
+.div9 {
+  width: 300px;
+  height: 280px;
+  position: relative;
+  left: 10px;
+  display: inline-block;
+  background-color: white;
+}
+.b4 {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+}
+.i3 {
+  width: 150px;
+  height: 90px;
+  margin-left: 70px;
+  display: inline-block;
+}
+.T1 {
+  padding-left: 100px;
+  margin-top: 10px;
+}
+.P1 {
+  font-size: x-large;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.div10 {
+  width: 300px;
+  height: 280px;
+  position: relative;
+
+  left: 130px;
+  display: inline-block;
+  background-color: white;
+}
+.b5 {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+}
+.i4 {
+  width: 200px;
+  height: 90px;
+  margin-left: 50px;
+  display: inline-block;
+}
+.H1 {
+  padding-left: 100px;
+  margin-top: 10px;
+}
+.P2 {
+  font-size: x-large;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.div11 {
+  width: 300px;
+  height: 280px;
+  position: relative;
+  left: 260px;
+
+  display: inline-block;
+  background-color: white;
+}
+.b6 {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+}
+.i5 {
+  width: 200px;
+  height: 90px;
+  margin-left: 40px;
+  display: inline-block;
+}
+.F1 {
+  padding-left: 100px;
+  margin-top: 10px;
+}
+.P3 {
+  font-size: x-large;
+  margin-left: 10px;
+  margin-top: 20px;
 }
